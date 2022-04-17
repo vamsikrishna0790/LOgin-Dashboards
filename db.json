@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "employees": [
+    {
+  "id": "1",
+    "fname": "vamsi",
+    "lname": "krishna",
+    "uname": "vamsikrishna",
+    "pwd":"vamsi",
+    "cpwd": "vamsi",
+    "email": "vk@g.com"
+  }
+  ]
+
+}
